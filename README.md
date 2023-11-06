@@ -10,13 +10,6 @@ The weather app is a user-friendly application that provides accurate weather in
 - **User-Friendly Interface:** The intuitive and visually appealing interface makes it easy for users to navigate and find the desired weather information effortlessly.
 - **Additional Weather Details:** Along with the basic weather information, the app may include additional details such as min/max temperature, atmospheric pressure, humidity, and more, depending on the weather API used.
 
-## Screenshot
-
-![weatherapp-ss](https://github.com/Thirumalaikumar-M/Weather-App/assets/111740460/c816a3e8-1f3d-499b-b878-ef94d81b7f0c)
-
-## Deployment
-
-View my deployment on Netlify : <a href="https://tk-weatherapp.netlify.app/">https://tk-weatherapp.netlify.app/</a>
 
 ## Setup
 
@@ -25,9 +18,7 @@ To run the Weather App locally on your machine, follow these steps:
 1. Make sure you have Node.js installed on your machine.
 
 2. Clone this repository or download the source code.
-   ```
-     git clone https://github.com/Thirumalaikumar-M/Weather-App.git
-   ```
+
 3. Open a terminal and navigate to the project directory.
    ```
      cd weather-app
